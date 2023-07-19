@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home-fill
 title: 主页
-heroImage: https://s2.loli.net/2023/07/20/4jby1cKaY5PSJqn.jpg
+bgImage: https://s2.loli.net/2023/07/20/4jby1cKaY5PSJqn.jpg
 heroText: Kaori
 tagline: 关注永雏塔菲喵，关注永雏塔菲谢谢喵
 heroFullScreen: true
