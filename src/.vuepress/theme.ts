@@ -14,7 +14,7 @@ export default hopeTheme({
 
   iconAssets: "//at.alicdn.com/t/c/font_3918030_0c96c96sd649.css",
 
-  logo: "https://s2.loli.net/2023/07/19/RQwpifmPOjN3XvV.jpg",
+  logo: "https://s2.loli.net/2023/07/20/5nMDx6SBblt9QyT.png",
 
   repo: "Kaori/Kaori-blog",
 

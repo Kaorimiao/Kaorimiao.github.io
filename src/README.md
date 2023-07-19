@@ -1,11 +1,11 @@
 ---
 home: true
 layout: BlogHome
-icon: home
-title: Blog Home
-heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+icon: home-fill
+title: 主页
+heroImage: https://s2.loli.net/2023/07/20/4jby1cKaY5PSJqn.jpg
+heroText: Kaori
+tagline: 关注永雏塔菲喵，关注永雏塔菲谢谢喵
 heroFullScreen: true
 projects:
   - icon: project
@@ -38,11 +38,6 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: 风铃的
 ---
 
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
