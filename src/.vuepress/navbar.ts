@@ -16,6 +16,7 @@ export const zhNavbar = navbar([
         ],
       },    
       { text: "项目内容", link: "project/", icon: "xiangmu", activeMatch: "^/project/$" },
+      {text: "其他", link: "other/", icon: "other1", activeMatch: "^/other/$" },
       
     ]
   },
