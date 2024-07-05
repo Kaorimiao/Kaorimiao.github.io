@@ -21,9 +21,7 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "mio-search",
-            "mio-init",
-            "mio-api"
+            
         ],
     },
     
@@ -34,8 +32,7 @@ export const code = arraySidebar([
         collapsible: true,
         children: [
             "",
-            "port",
-            "redis",
+            
         ],
     },
 ]);
