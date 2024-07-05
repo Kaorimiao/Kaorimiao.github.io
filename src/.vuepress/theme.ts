@@ -94,15 +94,15 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
-    // comment: {
-    //   // You should generate and use your own comment service
-    //   provider: "Giscus",
-    //   comment: true,
-    //   repo: "kaorimiao/kaorimiao.github.io",
-    //   repoId: "R_kgDOJBiVdA",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOJBiVdM4CUbgb",
-    // },
+    comment: {
+      // You should generate and use your own comment service
+      provider: "Giscus",
+      comment: true,
+      repo: "kaorimiao/kaorimiao.github.io",
+      repoId: "R_kgDOJBiVdA",
+      category: "Announcements",
+      categoryId: "DIC_kwDOJBiVdM4CUbgb",
+    },
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {

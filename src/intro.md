@@ -9,6 +9,9 @@ tag:
     - 简介
 ---
 
-# Intro Page
+## 欢迎来到Kaori的博客:wink:
 
-Place your introduction and profile here.
+👻你好，我叫风铃，24岁，🎓学生です！
+
+目前还在上学中🤞，未来想从事的方向为 前端开发。
+
