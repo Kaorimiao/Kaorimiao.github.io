@@ -12,7 +12,7 @@ export const zhNavbar = navbar([
         text: "C++相关",
         icon: "code",
         children: [
-          { text: "QT", link: "", icon: "notepad", activeMatch: "^/note/$" }
+          { text: "QT", link: "", icon: "notepad", activeMatch: "^/QT/$" }
         ],
       },    
       { text: "项目内容", link: "project/", icon: "xiangmu", activeMatch: "^/project/$" },
